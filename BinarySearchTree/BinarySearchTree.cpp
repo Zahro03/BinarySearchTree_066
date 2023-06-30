@@ -113,7 +113,7 @@ public:
 			postorder(ptr->leftchild);
 			postorder(ptr->leftchild);
 			cout << ptr->info << " ";
-		}
+		} 
 	}
 };
 
