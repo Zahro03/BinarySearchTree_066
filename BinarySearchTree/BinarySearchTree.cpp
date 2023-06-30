@@ -97,7 +97,7 @@ public:
 			cout << ptr->info << " ";
 			preorder(ptr->leftchild);
 			preorder(ptr->rightchild);
-		}
+		} 
 	}
 
 	void  postorder(Node* ptr)
