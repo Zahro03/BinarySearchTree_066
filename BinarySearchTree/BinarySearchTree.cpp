@@ -152,7 +152,7 @@ int main()
 		case '3':
 		{
 			obj.preorder(obj.ROOT);
-			break;
+			break; 
 		}
 		case '4':
 		{
