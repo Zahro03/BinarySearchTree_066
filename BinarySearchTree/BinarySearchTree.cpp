@@ -157,7 +157,7 @@ int main()
 		case '4':
 		{
 			obj.postorder(obj.ROOT);
-			break;
+			break; 
 		}
 		case '5':
 			return 0;
