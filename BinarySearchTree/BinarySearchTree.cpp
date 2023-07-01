@@ -122,7 +122,7 @@ int main()
 	BinaryTree obj; 
 	while (true) 
 	{
-		cout << "\nMenu" << endl;
+		cout << "\nMenu" << endl; 
 		cout << "1.Implement insert operation" << endl;
 		cout << "2.Perform inorder traversal" << endl;
 		cout << "3.Perform preoredr traversal" << endl;
